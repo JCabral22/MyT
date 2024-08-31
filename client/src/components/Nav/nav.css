@@ -1,0 +1,28 @@
+.logo {
+  margin-left: 10px;
+  width: 100px;
+  height: 100px;
+}
+
+.active {
+  text-decoration: underline #da4167 !important;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 3px;
+  padding: 10px 15px;
+}
+.navLinks > a:hover {
+  /* border-bottom: 2px solid #da4167; */
+  transition: 0.5s;
+  /* text-decoration: underline #da4167;
+  text-underline-offset: 5px;
+  text-decoration-thickness: 3px; */
+}
+.Login {
+  text-decoration: none !important;
+}
+.navLinks > a {
+  color: white;
+  text-decoration: underline transparent;
+  padding: 10px 20px;
+  /* border: 1px solid transparent; */
+}

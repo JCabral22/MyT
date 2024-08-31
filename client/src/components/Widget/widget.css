@@ -1,0 +1,16 @@
+.memberGrid::-webkit-scrollbar {
+  width: 0.5em;
+  background-color: transparent;
+}
+
+.memberGrid::-webkit-scrollbar-track {
+  display: none;
+
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+.memberGrid::-webkit-scrollbar-thumb {
+  border-radius: 2px;
+  background-color: slategray;
+  outline: 1px white;
+}
