@@ -1,1 +1,1 @@
-Simple react website built for mytourni in 2022
+Simple react website + discord.js bot built for mytourni in 2022
